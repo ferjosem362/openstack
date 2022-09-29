@@ -51,7 +51,7 @@
     "@webcomponents/html-imports": "1.2.4",
     "@webcomponents/webcomponentsjs": "2.4.3",
     "bootstrap": "4.4.1",
-    "d3": "5.16.0",
+    "d3": "7.6.1",
     "font-awesome": "4.7.0",
     "jquery": "3.5.1",
     "jquery.dotdotdot": "3.2.3",
