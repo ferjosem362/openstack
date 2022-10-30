@@ -15,7 +15,7 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "browser-sync": "2.26.7",
+    "browser-sync": "2.27.10",
     "glob": "7.1.6",
     "gulp": "4.0.2",
     "gulp-cachebust": "0.0.11",
@@ -35,7 +35,7 @@
     "gulp-useref": "4.0.1",
     "jasmine-core": "3.5.0",
     "jshint": "2.11.0",
-    "karma": "5.0.4",
+    "karma": "5.2.3",
     "karma-chrome-launcher": "3.1.0",
     "karma-coverage": "2.0.2",
     "karma-jasmine": "3.1.1",
